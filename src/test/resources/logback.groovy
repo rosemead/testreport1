@@ -1,0 +1,1 @@
+logger 'com.athaydes', WARN
